@@ -14,3 +14,8 @@ Analyst: Sanni Sultan O.  |  Period: 2020–2024  |  Campaigns: 7  |  Chan
 |🎯 Conversion Rate| 14.64%| 🟢 +0.37%|
 
 *Revenue growth (+24.21%) significantly outpaces CAC growth (+4.40%), confirming improving return on marketing investment year-over-year.*
+
+📁 Dashboard Pages
+| Page | Description |
+| Executive Overview | Top-level KPIs, CAC monthly trend, campaign breakdown, funnel |
+| Channel Performance | Channel-level spend, CAC, impressions, conversion rates |
