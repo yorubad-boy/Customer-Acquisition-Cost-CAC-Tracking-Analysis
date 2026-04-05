@@ -13,6 +13,8 @@ Analyst: Sanni Sultan O.  |  Period: 2020–2024  |  Campaigns: 7  |  Chan
 | Average CAC| $33.87|  +4.40%|
 | Conversion Rate| 14.64%|  +0.37%|
 
+![Dashboard Preview](projectdashboard-page-00001.jpg)
+
 *Revenue growth (+24.21%) significantly outpaces CAC growth (+4.40%), confirming improving return on marketing investment year-over-year.*
 
 ## Dashboard Pages
