@@ -13,7 +13,7 @@ Analyst: Sanni Sultan O.  |  Period: 2020–2024  |  Campaigns: 7  |  Chan
 | Average CAC| $33.87|  +4.40%|
 | Conversion Rate| 14.64%|  +0.37%|
 
-![Dashboard Preview](projectdashboard-page-00001.jpg)
+![Dashboard Preview](page1.jpg)
 
 *Revenue growth (+24.21%) significantly outpaces CAC growth (+4.40%), confirming improving return on marketing investment year-over-year.*
 
@@ -61,6 +61,8 @@ Instagram delivers the highest customer volume (44K) at mid-range spend
 Referral leads in impressions (44.09M) with the second-lowest ad spend — best efficiency ratio
 TikTok is the most capital-efficient channel, with room to scale
 Email has the highest ad spend ($470K) relative to customer acquisition, indicating optimization potential
+
+![Dashboard Preview](page2.jpg)
 
 ## Funnel Analysis
 ```
