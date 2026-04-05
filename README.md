@@ -111,3 +111,5 @@ Built with Power BI — two-page interactive dashboard with year and campaign fi
 | -- | -- |
 | Year | 2020, 2021, 2022, 2023, 2024 |
 | Campaign Name | All / Individual |
+
+The dashboard can be interacted with through this link: https://app.powerbi.com/view?r=eyJrIjoiYWNlNWVjYmEtYjExMS00NjFjLTlhM2UtMGM2Njc0N2NkODgyIiwidCI6IjYyNjQwMmE4LWM4YmEtNGEzOC04ZjEwLTc2ZTE4MGM1MWJlMSJ9
